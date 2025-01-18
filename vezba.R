@@ -4,3 +4,4 @@ a+b
 print(b)
 d <- c(14, 18)
 print(d)
+a+d
